@@ -1,7 +1,7 @@
 #### Hi there 👋
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in networkSecurity and backEndDevelop
+- 🌱 I’m currently learning NestJS、TypeScript
+- 💼 I’m work in web frontEnd Developer
 - 📫 How to reach me mozhijiang16@gmail.com
 - I am in [website](https://mozhijiang.top), [juejin](https://juejin.cn/user/2981531265808750), [zhihu](https://www.zhihu.com/people/mozhijiang)
 - I will try more idea in the future.
